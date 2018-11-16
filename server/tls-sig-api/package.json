@@ -1,0 +1,53 @@
+{
+  "_from": "tls-sig-api@^1.0.1",
+  "_id": "tls-sig-api@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-jiQj8MWu2kFVFCVzuuAi+92bzMk=",
+  "_location": "/tls-sig-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "tls-sig-api@^1.0.1",
+    "name": "tls-sig-api",
+    "escapedName": "tls-sig-api",
+    "rawSpec": "^1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.1"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/tls-sig-api/download/tls-sig-api-1.0.1.tgz",
+  "_shasum": "8e2423f0c5aeda4155142573bae022fbdd9bccc9",
+  "_spec": "tls-sig-api@^1.0.1",
+  "_where": "E:\\template\\imdemo",
+  "author": {
+    "name": "okhowang"
+  },
+  "bugs": {
+    "url": "https://github.com/tencentyun/tls-sig-api-node/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mocha": "^5.0.5"
+  },
+  "deprecated": false,
+  "description": "see demo",
+  "devDependencies": {
+    "nyc": "^12.0.2"
+  },
+  "homepage": "https://github.com/tencentyun/tls-sig-api-node#readme",
+  "license": "MIT",
+  "main": "TLSAPI.js",
+  "name": "tls-sig-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tencentyun/tls-sig-api-node.git"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "version": "1.0.1"
+}
